@@ -5,17 +5,23 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
+Over the past week, I have researched a bit about Atom plugins and their development, as well as frameworks like ReactJs, AngularJs, and Node.Js. Prior, I also attended the Call for Code Hackathon.
+
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
 > Examples: New Bugs to be fixed, Design choices
 
+We will be meeting in our individual groups for the first time.
+
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+
+I have no experience developing Atom plugins, and very little experience with web frameworks. This will be a learning experience.
 
 ## Notes
 
